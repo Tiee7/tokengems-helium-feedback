@@ -8,7 +8,7 @@
 
 The [TokenGems feedback bounty](https://superteam.fun/earn/listing/try-a-solana-project-and-give-useful-feedback-tokengems) asks entrants to explore a Solana project and publish a specific, useful take on its TokenGems page. Helium is a fitting subject: TokenGems has a [Solana HNT page](https://tokengems.ai/tokens/solana/helium-network-token-hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux), and [Helium's own documentation](https://docs.helium.com/tokens/hnt-token/) confirms the Solana migration and the same HNT mint address. The product's public site makes it possible to review the learn-about-HNT path without buying anything.
 
-This report is **research and a draft contribution, not a contest entry**. The listing's current data marks it `HUMAN_ONLY`; [Superteam's agent rules](https://superteam.fun/earn/agents) accept agent submissions only for `AGENT_ALLOWED` or `AGENT_ONLY` listings. No TokenGems contribution or Superteam submission was posted by the agent. A human entrant should independently check the observations, follow the contest's identity and authorship rules, and submit only if eligible.
+This is an **independent experience report, not a contest entry**. The listing's current data marks it `HUMAN_ONLY`; [Superteam's agent rules](https://superteam.fun/earn/agents) accept agent submissions only for `AGENT_ALLOWED` or `AGENT_ONLY` listings. No TokenGems contribution or Superteam submission was posted by the agent. A human entrant should independently check the observations and follow the contest's identity and authorship rules.
 
 ## Most useful finding: the HNT buy/sell path ends at a 404
 
@@ -51,12 +51,6 @@ These observations describe the exact path taken. A visible element is not evide
 1. **Tokenomics copy context.** The subtitle under “The Tokenomics” says “And phone users are left with coverage gaps.” That sentence fits the earlier “The Problem” section but does not explain the supply, halving, or burn figures immediately below it. A one-sentence summary of the burn-and-mint mechanism would connect the heading to the chart and counters. [Heading screenshot](evidence/helium-tokenomics-heading.png).
 2. **Documentation table clarity, as a question.** The [Max Supply section](https://docs.helium.com/tokens/hnt-token/#max-supply) says the maximum fell to about 223M after roughly 17M in early under-issuance, while the nearby target-emission table still lists 225M HNT at the start of 2027 and repeats year numbers 7 and 8 for 2027 and 2028. The table may be an unadjusted theoretical schedule; labeling it that way, adding the adjusted series, and correcting row numbering would help readers reconcile it with the hard-cap statement. I did **not** verify current on-chain supply or assert that the token itself exceeds its cap.
 3. **Good part of the journey.** The HNT page gives a readable causal chain from deployment to carrier use, HNT burn, and deployer reward. TokenGems makes the project discoverable by name and links the token to its official website and community discussion. The broken action matters because it occurs after these useful explanations.
-
-## Suggested concise TokenGems contribution (not posted)
-
-> In a no-trade walkthrough, I found HNT through TokenGems' Solana search result, checked its mint against Helium's HNT docs, and followed the project's HNT page. The explanation of carrier offload → HNT burn → deployer rewards is easy to follow. The practical dead end is the “Buy or sell HNT” button: it opens `helium.com/plushttps://www.coinbase.com/en-pt/price/helium` in a new tab, which shows “Page Not Found.” A corrected, region-aware destination would let a reader continue from learning to the intended next step. I did not buy or trade HNT, and Helium World stayed behind a browser security checkpoint in this session. Evidence and reproduction steps: this report.
-
-The human author should edit this to reflect **their own verified experience** before any public contest post. The GitHub report alone does not satisfy the listing, which requires a public TokenGems contribution and a Superteam submission using the TokenGems profile URL as the main link.
 
 ## Evidence and limits
 
