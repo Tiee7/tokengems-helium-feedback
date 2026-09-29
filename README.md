@@ -48,7 +48,7 @@ These observations describe the exact path taken. A visible element is not evide
 
 ## Additional, lower-priority notes
 
-1. **Tokenomics copy context.** The subtitle under “The Tokenomics” says “And phone users are left with coverage gaps.” That sentence fits the earlier “The Problem” section but does not explain the supply, halving, or burn figures immediately below it. A one-sentence summary of the burn-and-mint mechanism would connect the heading to the chart and counters. [Section screenshot](evidence/helium-tokenomics-metrics.png) (lower portion; the subtitle is on the same page above).
+1. **Tokenomics copy context.** The subtitle under “The Tokenomics” says “And phone users are left with coverage gaps.” That sentence fits the earlier “The Problem” section but does not explain the supply, halving, or burn figures immediately below it. A one-sentence summary of the burn-and-mint mechanism would connect the heading to the chart and counters. [Heading screenshot](evidence/helium-tokenomics-heading.png).
 2. **Documentation table clarity, as a question.** The [Max Supply section](https://docs.helium.com/tokens/hnt-token/#max-supply) says the maximum fell to about 223M after roughly 17M in early under-issuance, while the nearby target-emission table still lists 225M HNT at the start of 2027 and repeats year numbers 7 and 8 for 2027 and 2028. The table may be an unadjusted theoretical schedule; labeling it that way, adding the adjusted series, and correcting row numbering would help readers reconcile it with the hard-cap statement. I did **not** verify current on-chain supply or assert that the token itself exceeds its cap.
 3. **Good part of the journey.** The HNT page gives a readable causal chain from deployment to carrier use, HNT burn, and deployer reward. TokenGems makes the project discoverable by name and links the token to its official website and community discussion. The broken action matters because it occurs after these useful explanations.
 
@@ -61,6 +61,6 @@ The human author should edit this to reflect **their own verified experience** b
 ## Evidence and limits
 
 - Browser: Chromium-based Ego browser, normal public-page interaction. Times are Beijing time (UTC+8). Screenshots show only public Helium pages; no wallet address, account secret, or transaction details are published.
-- [HNT buy/sell button](evidence/helium-buy-link-visible.png), [404 after click](evidence/helium-broken-destination.png), [loaded tokenomics metrics](evidence/helium-tokenomics-metrics.png).
+- [HNT buy/sell button](evidence/helium-buy-link-visible.png), [404 after click](evidence/helium-broken-destination.png), [tokenomics heading](evidence/helium-tokenomics-heading.png), [loaded tokenomics metrics](evidence/helium-tokenomics-metrics.png).
 - No token purchase, deposit, swap, wallet signing, authenticated Helium action, security scan, or attempt to bypass the Helium World checkpoint.
 - No prize, sale, receivable, or revenue has been earned by producing this report.
